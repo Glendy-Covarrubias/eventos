@@ -68,14 +68,19 @@
                     to      : '/inspire'
                 },
                 {
-                    icon    : 'bubble_chart',
+                    icon    : 'supervised_user_circle',
                     title   : 'Asistentes',
                     to      : '/asistentes'
                 },
                 {
-                    icon    : 'bubble_chart',
+                    icon    : 'face',
                     title   : 'Ponentes',
                     to      : '/asistentes'
+                },
+                {
+                    icon    : 'group_work',
+                    title   : 'Espacio',
+                    to      : '#'
                 }
             ]
         }),
